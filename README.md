@@ -344,7 +344,7 @@ In this step, we will be adding a new route for our `ClassList` component. We wi
   - English 2010 - `/classlist/ENG2010`
   - Biology 2020 - `/classlist/BIO2020`
 
-<details>
+<details>/
 
 <summary> Detailed Instructions </summary>
 
